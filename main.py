@@ -1,11 +1,7 @@
-from http import client
 import os
 import random 
-import re
-from tokenize import Token
 import discord
 from discord.ext import commands
-
 from urllib import parse, request
 from discord.ext.commands.bot import Bot
 import praw
@@ -37,13 +33,7 @@ for cog in cogs:
     bot.load_extension(cog)
   except Exception as e:
     print(f'Could not load cog{cog}: {str(e)}')
-#
-#
-#
-# 
 
-#
-#
 @slash.slash()
 async def hi(ctx):
     if ctx.author.id == 697757488455483453:
