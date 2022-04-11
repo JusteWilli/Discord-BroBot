@@ -3,7 +3,7 @@
  
  
 <p align="center">
-    <a href="https://stats.uptimerobot.com/r7zRmSrLRm" target="_blank">
+    <a href="https://bit.ly/BroBot-Status" target="_blank">
         <img src="https://img.shields.io/uptimerobot/ratio/m790700007-530ff8d8d02185f9e9da745d?color=red&label=BroBot" alt="BotStatus"/>
     </a>
     <a href="https://bit.ly/Discord-Willi" target="_blank">
