@@ -1,6 +1,4 @@
 # Discord BroBot
- Simpel Discord Bot
- 
  
 <p align="center">
     <a href="https://bit.ly/BroBot-Status" target="_blank">
@@ -10,6 +8,11 @@
         <img src="https://img.shields.io/discord/956277474201829478?color=blue&label=Discord" alt="Discord Invite"/>
     </a>
 </p>
+
+# About
+BroBot is an just a Simpel Discord Bot I’m currently working on
+ 
+
 
 # Update
 Last Update 23.03.2022
