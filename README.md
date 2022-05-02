@@ -15,4 +15,4 @@ BroBot is an just a Simpel Discord Bot I’m currently working on
 
 
 # Update
-Last Update 23.03.2022
+Last Update 23.03.2022 :D
